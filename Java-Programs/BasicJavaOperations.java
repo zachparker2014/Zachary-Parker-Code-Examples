@@ -1,15 +1,3 @@
-/**
-   Program #1
- 
-   Function: Simple Java application to demonstrate the behavior of
-             different data types, arithmetic, concatenation, and
-             output of results.
- 
-   Programmed By: Zachary Parker, March 22, 2020
- 
-   Code Practice Problems Taken From: "Java Programming (Fourth Edition" by Joyce Farrell, Figure 2-26, page 61
- 
-*/
 public class BasicJavaOperations
 {
    public static void main(String[] args)
